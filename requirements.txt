@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.5.1
+torchvision==0.20.1
+ultralytics==8.3.40
+numpy==1.26.4
+opencv-python==4.10.0.84
+pandas==2.2.3
+streamlit
+streamlit-webrtc
+av
+mysql-connector-python
+python-dotenv
